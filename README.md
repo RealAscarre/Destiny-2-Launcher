@@ -24,5 +24,5 @@ To install form both platforms you just need to follow this few simple steps:
 9. Now open command prompt or power shell then type 'New-Item -ItemType SymbolicLink -Path "EPIC_PATH_COPIED_AT_STEP_4" -Target "STEAM_PATH_COPIED_AT_STEP_8"'. (so it should be like this so far - New-Item -ItemType SymbolicLink -Path "C:\Program Files (x86)\EpicGames\Download\Destiny2\packages" -Target "C:\Program Files (x86)\Steam\steamapps\common\Destiny 2\packages").
 10. Now press enter and it shouldn't show any errors.
 11. Open steam and download the Destiny 2 Game.
-12. It will first validate the game files but unfortunately it will still download the game files of 120 gb. But after installation is complete, the file size for steam install be around ~135 mb and epic games be around ~120 gb.
+12. It will first validate the game files but unfortunately it will still download the game files of 120 gb. But after installation is complete, the file size for steam install be around ~158 mb and epic games be around ~129 gb.
 ```
