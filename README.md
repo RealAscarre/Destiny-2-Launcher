@@ -1,6 +1,18 @@
 # Destiny-2-Launcher
 A launcher for Destiny 2 to open the game from Steam and Epic Games without multiple Icons.
 
+# How to use?
+1. Remove the steam and epic game icons for the destiny 2 game from desktop.
+2. Put the exe file anywhere in your harddrive (Recommended to keep along with the game files so u dont forget the path?)
+3. Now create a shortcut to desktop (or u can keep the exe directly in your desktop, it doesn't matter)
+4. Double click and select which engine u want to open with
+5. Later just double click this launcher again and select the other option
+
+# Why should i use this?
+It isn't a hack or a mod or anything of that sort, its just a launcher, so you don't have to keep 2 icons for steam and epic seperately.
+Also you just open this and it will launch the game directly without you opening the launchers waiting then opening the game. 
+Just a lazy thing for some lazy people (I am lazy)
+
 **Preview**
 
 ![Destiny 2 Launcher](https://github.com/RealAscarre/Destiny-2-Launcher/blob/main/Preview/preview.png)
