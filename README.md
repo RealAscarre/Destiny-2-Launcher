@@ -7,6 +7,7 @@ A launcher for Destiny 2 to open the game from Steam and Epic Games without mult
 
 
 **How to install Destiny 2 for both Steam and Epic Games?**
+
 Incase if you bought some dlc from steam during sale and got other dlc from epic games you might find yourself in a difficult position to play the game from both epi and steam in one pc.
 I have a solution for that, you will install the game for both steam and epic games but it will only take 120 gb and not 240 gb for both steam install and epic install.
 
